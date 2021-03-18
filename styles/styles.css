@@ -1,0 +1,35 @@
+html {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Georgia, serif;
+    font-weight: 400;
+    color: #b34848;
+}
+
+a {
+   color: #665, 
+}
+
+.blog-masthead {
+    background-color: #b34848;
+}
+
+#alert {
+    display: none;
+}
+
+h2:hover {
+    text-decoration: underline;
+}
+
+.blog-sidebar .blog-post-title{
+    font-size: 12px;
+}
